@@ -2,5 +2,5 @@
 void main()
 {
     int a=4, b=5;
-    printf("%d",a*b);
+    printf("Multiply two no. %d",a*b);
 }
